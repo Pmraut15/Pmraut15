@@ -6,10 +6,10 @@
 <h2 align="center">You can connect Me with</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/pratik-raut-97b73a213/">
-    <img src="https://img.shields.io/badge/RishikeshMane-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikesh-mane-620908186/" height=20>
+    <img src="https://img.shields.io/badge/Pmraut15-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikesh-mane-620908186/" height=20>
   </a>
   <a href="https://www.instagram.com/_pratikraut15_/">
-    <img src="https://img.shields.io/badge/geeky_rex-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/geeky_rex/" height=20>
+    <img src="https://img.shields.io/badge/Pmraut15-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/geeky_rex/" height=20>
   </a>
 </p>
 
