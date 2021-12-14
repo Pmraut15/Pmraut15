@@ -33,3 +33,9 @@
 <img alt="gif Code" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="auto"/>
 
 ![Profile views](https://gpvc.arturio.dev/Pmraut15)
+
+<p align="left">
+  <a href="https://github.com/Pmraut15/Pmraut15">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmraut15&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</p>
